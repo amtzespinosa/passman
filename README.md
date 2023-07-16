@@ -4,7 +4,7 @@
 
 ![version](https://img.shields.io/badge/version-Alpha-31A472)
 ![language](https://img.shields.io/badge/language-Python-404040)
-![license](https://img.shields.io/badge/license-MIT-lightgrey)
+![license](https://img.shields.io/badge/license-GPLv3-lightgrey)
 ![build](https://img.shields.io/badge/build-passing-31A472)
 
 </div>
