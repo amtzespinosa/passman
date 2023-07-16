@@ -11,7 +11,7 @@
 
 **#passman** is a password generator and manager built using **Python** and **SQLite3**. It has a nice GUI made with **customtkinter** and it features a little *mod* of the *ctk_optionmenu* widget to add a placeholder text. You'll have to add this *mod* to be able to use it. 
 
-Here's my repo with the modification: 
+Here's my repo with the modification: **[CustomTkinter Option Menu Placeholder Text Mod](https://github.com/amtzespinosa/CTk-optionmenu-placeholder)**
 
 > **NOTE:**
 >
