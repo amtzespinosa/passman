@@ -9,9 +9,9 @@ pip install customtkinter
 
 cp -r PassMan/ /usr/lib/passman/
 chmod 700 /usr/lib/passman/passman.db
-rm -rf PassMan
 cp passman /usr/bin/
-rm passman
 chmod +x /usr/bin/passman
+cp passman-uninstall /usr/bin/
+chmod +x /usr/bin/passman-uninstall
 cd ..
 rm -rf password-manager-gui-main
