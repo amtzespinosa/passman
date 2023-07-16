@@ -88,6 +88,7 @@ There are plenty of them for sure but here are some of the most anoying ones I w
 
 ## Future Improvements and Features
 
+- [ ] Add keyboard support - hit `Enter` to login and so on...
 - [ ] Confirmation message before credentials deletion
 - [ ] Add multiple master users support
 - [ ] Add stronger cryptographic security
