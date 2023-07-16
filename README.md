@@ -59,7 +59,7 @@ After you register your master user you'll get logged into the main screen which
 
 ![passgen showcase](/img/passgen-showcase.png)
 
-By clicking the *Generate* button a new password will be generated and you'll be able to copy it. **I'm having problems with the *Copy* button - I hope I solve it soon. I made it work in *Kali Linux* but not in *Ubuntu*.** You can select and then `Ctrl + C` to copy and `Ctrl + V` to paste it.
+By clicking the *Generate* button a new password will be generated and you'll be able to copy it. You can use the *Copy* button or you can select and then `Ctrl + C` to copy and `Ctrl + V` to paste it.
 
 Once you have the password in the clipboard you can head to the **Add New** tab.
 
@@ -81,7 +81,7 @@ And next time you execute it again you'll be prompted with the **#login** screen
 
 There are plenty of them for sure but here are some of the most anoying ones I will focus on:
 
-- [ ] **Copy button not working** - pyperclip issue
+- [x] **~~Copy button not working~~** - xclip issue in Ubuntu: solved installing xclip with `install.sh`
 - [ ] **Dirty code - made to work** but unstable and not properly implemented
 - [ ] **Stored password and refreshing issues** - dynamical CTk frames issue
 - [ ] **General security issues**
