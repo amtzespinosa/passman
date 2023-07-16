@@ -15,7 +15,7 @@ Here's my repo with the modification:
 
 > **NOTE:**
 >
-> It's not a final version as I coded it as a 24h. straight coding challenge. The installation is a dirty process and it's not correct by any means. The point of this repo is to share it with the community and see how far can it go with other's modifications. **Please, feel free to fork it and share your improvements.**
+> It's not a final version as I coded it as a 24h. straight coding challenge. The installation is not a proper installation process and it's not correct by any means. The point of this repo is to share it with the community and see how far can it go with other's modifications. **Please, feel free to fork it and share your improvements.**
 
 ![passman showcase](/img/showcase.png)
 
