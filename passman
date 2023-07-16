@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo python3 /usr/lib/passman/passman.py &
