@@ -27,9 +27,9 @@ I'd rather say **"installation"** as it only moves files and creates the files f
 1. Install the required dependencies and modules
 2. Copy the main folder into `/usr/lib/passman/`
 3. Grant required permissions to the database
-4. Copy the CLI command file into `/usr/bin/`
+4. Copy the CLI command files into `/usr/bin/`
 5. Grant required permissions to the command file
-6. Delete files
+6. Delete folder
 
 As you can see it's not a proper installation and this is just a workaround build for this *Alpha* version aimed to be fixed and improved. To install it just run:
 
@@ -41,9 +41,11 @@ As you can see it's not a proper installation and this is just a workaround buil
 
 `sudo ./install.sh`
 
+If you want to uninstall **#passman** just run the command `sudo passman-uninstall` - this will completely remove everything, be careful!
+
 ## Use
 
-The first time you execute the program you'll be presented with the **#register** page where you have to register your master user. 
+To run the program just run `sudo passman`. The first time you execute the program you'll be presented with the **#register** page where you have to register your master user. 
 
 > **⚠️ WARNING:**
 >
