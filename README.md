@@ -2,8 +2,8 @@
 ---
 <div align="center">
 
+[![python](https://img.shields.io/badge/Python-3.11-404040.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 ![version](https://img.shields.io/badge/version-Alpha-31A472)
-![language](https://img.shields.io/badge/language-Python-404040)
 ![license](https://img.shields.io/badge/license-GPLv3-lightgrey)
 ![build](https://img.shields.io/badge/build-passing-31A472)
 
